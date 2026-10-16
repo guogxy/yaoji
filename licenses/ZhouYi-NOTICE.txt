@@ -1,0 +1,20 @@
+Zhouyi offline corpus: zhouyi-wikisource-2026-10-15.1
+
+Underlying ancient text: public domain.
+Transcription, punctuation and editorial notes: Wikisource contributors.
+Source: https://zh.wikisource.org/wiki/周易
+Each entry in zhouyi.json includes its fixed source revision URL; revision histories on those pages identify the contributors.
+
+The transcription and compiled-data adaptations are distributed under Creative Commons Attribution-ShareAlike 4.0 International:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Changes: structured extraction of judgments, six bottom-first lines, Tuan and Image passages; separate Qian/Kun special passages; separation of alternate-reading annotations; removal of HTML and a redundant judgment title prefix. Original characters and punctuation are otherwise retained. No automatic prediction or scholarly critical-edition claim is included. Application code, fonts and other dependencies have separate licenses.
+
+Modern editorial readings are provided separately in hexagram-readings.json, line-readings-*.json and LineReading.swift. They are AI-assisted original summaries prepared for YaoJi, not ancient quotations or translations by the named classical authors. Ancient commentary references include Zhu Xi's Zhouyi Benyi and Wang Bi / Kong Yingda's Zhouyi Zhengyi. The editorial corpus and its source-text adaptations are distributed under the same CC BY-SA 4.0 terms above; this does not change the licenses of the application code or other assets.
+
+Benyi transcription: Wikisource contributors, fixed revisions 528287 (volume 1) and 737053 (volume 2).
+https://zh.wikisource.org/w/index.php?title=周易本義%20(四庫全書本)/卷1&oldid=528287
+https://zh.wikisource.org/w/index.php?title=周易本義%20(四庫全書本)/卷2&oldid=737053
+Zhengyi, Weiji chapter, revision 2414136:
+https://zh.wikisource.org/w/index.php?title=周易正義/06未濟&oldid=2414136
+Additional per-line reference metadata is retained in the editorial catalog. No user-supplied PDF, modern publisher translation or Ni Haixia course material is distributed.

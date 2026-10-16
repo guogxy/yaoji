@@ -1,0 +1,6204 @@
+{
+  "schemaVersion": 1,
+  "version": "zhouyi-wikisource-2026-10-15.1",
+  "entries": [
+    {
+      "number": 1,
+      "sourceTitle": "乾",
+      "lower": "乾",
+      "upper": "乾",
+      "revision": 2404991,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E4%B9%BE&oldid=2404991",
+      "judgment": {
+        "text": "元亨。利貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "潛龍勿用。",
+            "notes": []
+          },
+          "image": {
+            "text": "潛龍勿用，陽在下也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "見龍在田，利見大人。",
+            "notes": []
+          },
+          "image": {
+            "text": "見龍在田，德施普也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "君子終日乾乾，夕惕若；厲，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "終日乾乾，反復道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "或躍在淵，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "或躍在淵，進无咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "飛龍在天，利見大人。",
+            "notes": []
+          },
+          "image": {
+            "text": "飛龍在天，大人造也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "亢龍，有悔。",
+            "notes": []
+          },
+          "image": {
+            "text": "亢龍有悔，盈不可久也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": {
+        "label": "用九",
+        "passage": {
+          "text": "見羣龍无首，吉。",
+          "notes": []
+        },
+        "image": {
+          "text": "用九，天德不可為首也。",
+          "notes": []
+        }
+      },
+      "tuan": {
+        "text": "大哉乾元，萬物資始，乃統天。雲行雨施，品物流形，大明終始，六位時成。\n時乘六龍以御天，乾道變化，各正性命，保合大和，乃利貞。\n首出庶物，萬國咸寧。",
+        "notes": [
+          "一作太和"
+        ]
+      },
+      "image": {
+        "text": "天行健，君子以自強不息。",
+        "notes": []
+      }
+    },
+    {
+      "number": 2,
+      "sourceTitle": "坤",
+      "lower": "坤",
+      "upper": "坤",
+      "revision": 2404999,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%9D%A4&oldid=2404999",
+      "judgment": {
+        "text": "元亨。利牝馬之貞。\n君子有攸往，先迷後得主。\n利西南得朋，東北喪朋。安貞，吉。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "履霜，堅冰至。",
+            "notes": []
+          },
+          "image": {
+            "text": "履霜堅冰，陰始凝也。馴致其道，至堅冰也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "直方大，不習无不利。",
+            "notes": []
+          },
+          "image": {
+            "text": "六二之動，直以方也。不習无不利，地道光也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "含章，可貞。或從王事，无成有終。",
+            "notes": []
+          },
+          "image": {
+            "text": "含章可貞，以時發也。或從王事，知光大也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "括囊，无咎无譽。",
+            "notes": []
+          },
+          "image": {
+            "text": "括囊无咎，慎不害也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "黃裳，元吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "黃裳元吉，文在中也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "龍戰于野，其血玄黃。",
+            "notes": []
+          },
+          "image": {
+            "text": "龍戰于野，其道窮也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": {
+        "label": "用六",
+        "passage": {
+          "text": "利永貞。",
+          "notes": []
+        },
+        "image": {
+          "text": "用六永貞，以大終也。",
+          "notes": []
+        }
+      },
+      "tuan": {
+        "text": "至哉坤元，萬物資生，乃順承天。坤厚載物，德合无疆；含弘光大，品物咸亨。牝馬地類，行地无疆，柔順利貞。\n君子攸行，先迷失道，後順得常。\n西南得朋，乃與類行，東北喪朋，乃終有慶。安貞之吉，應地无疆。",
+        "notes": []
+      },
+      "image": {
+        "text": "地勢坤，君子以厚德載物。",
+        "notes": []
+      }
+    },
+    {
+      "number": 3,
+      "sourceTitle": "屯",
+      "lower": "震",
+      "upper": "坎",
+      "revision": 10643482,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B1%AF&oldid=10643482",
+      "judgment": {
+        "text": "元亨，利貞。勿用有攸往，利建侯。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "磐桓，利居貞，利建侯。",
+            "notes": [
+              "一作「盤」"
+            ]
+          },
+          "image": {
+            "text": "雖磐桓，志行正也。以貴下賤，大得民也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "屯如邅如，乘馬班如，匪寇婚媾，女子貞不字，十年乃字。",
+            "notes": []
+          },
+          "image": {
+            "text": "六二之難，乘剛也。十年乃字，反常也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "即鹿无虞，惟入于林中，君子幾不如舍，往吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "即鹿无虞，以從禽也。君子舍之，往吝窮也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "乘馬班如，求婚媾，往，吉无不利。",
+            "notes": []
+          },
+          "image": {
+            "text": "求而往，明也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "屯其膏；小貞吉，大貞凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "屯其膏，施未光也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "乘馬班如，泣血漣如。",
+            "notes": []
+          },
+          "image": {
+            "text": "泣血漣如，何可長也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "屯，剛柔始交而難生，動乎險中，大亨貞。雷雨之動滿盈，天造草昧，宜建侯而不寧。",
+        "notes": []
+      },
+      "image": {
+        "text": "雲雷，屯；君子以經綸。",
+        "notes": []
+      }
+    },
+    {
+      "number": 4,
+      "sourceTitle": "蒙",
+      "lower": "坎",
+      "upper": "艮",
+      "revision": 10645379,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%92%99&oldid=10645379",
+      "judgment": {
+        "text": "亨。匪我求童蒙，童蒙求我。初筮告，再三瀆，瀆則不告。利貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "發蒙，利用刑人，用說桎梏，以往吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "利用刑人，以正法也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "包蒙吉，納婦吉，子克家。",
+            "notes": []
+          },
+          "image": {
+            "text": "子克家，剛柔接也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "勿用取女，見金夫，不有躬，无攸利。",
+            "notes": [
+              "一作「娶」"
+            ]
+          },
+          "image": {
+            "text": "勿用取女，行不順也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "困蒙，吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "困蒙之吝，獨遠實也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "童蒙，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "童蒙之吉，順以巽也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "擊蒙，不利為寇，利禦寇。",
+            "notes": []
+          },
+          "image": {
+            "text": "利禦寇，上下順也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "蒙，山下有險，險而止，蒙。蒙亨，以亨行，時中也。匪我求童蒙，童蒙求我，志應也。初筮告，以剛中也。再三瀆，瀆則不告，瀆蒙也。蒙以養正，聖功也。",
+        "notes": []
+      },
+      "image": {
+        "text": "山下出泉，蒙；君子以果行育德。",
+        "notes": []
+      }
+    },
+    {
+      "number": 5,
+      "sourceTitle": "需",
+      "lower": "乾",
+      "upper": "坎",
+      "revision": 10643261,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%9C%80&oldid=10643261",
+      "judgment": {
+        "text": "有孚，光亨。貞吉，利涉大川。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "需于郊，利用恆，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "需于郊，不犯難行也。利用恆，无咎，未失常也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "需于沙，小有言，終吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "需于沙，衍在中也。雖小有言，以吉終也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "需于泥，致寇至。",
+            "notes": []
+          },
+          "image": {
+            "text": "需于泥，災在外也。自我致寇，敬慎不敗也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "需于血，出自穴。",
+            "notes": []
+          },
+          "image": {
+            "text": "需于血，順以聽也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "需于酒食，貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "酒食，貞吉，以中正也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "入于穴，有不速之客三人來，敬之終吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "不速之客來，敬之終吉。雖不當位，未大失也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "需，須也，險在前也；剛健而不陷，其義不困窮矣。需，有孚，光亨，貞吉，位乎天位，以正中也。利涉大川，往有功也。",
+        "notes": []
+      },
+      "image": {
+        "text": "雲上於天，需；君子以飲食宴樂。",
+        "notes": []
+      }
+    },
+    {
+      "number": 6,
+      "sourceTitle": "訟",
+      "lower": "坎",
+      "upper": "乾",
+      "revision": 10645409,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%A8%9F&oldid=10645409",
+      "judgment": {
+        "text": "有孚，窒，惕，中吉，終凶。利見大人，不利涉大川。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "不永所事，小有言，終吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "不永所事，訟不可長也。雖小有言，其辯明也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "不克訟，歸而逋，其邑人三百戶无眚。",
+            "notes": []
+          },
+          "image": {
+            "text": "不克訟，歸逋竄也。自下訟上，患至掇也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "食舊德，貞厲，終吉。或從王事，无成。",
+            "notes": []
+          },
+          "image": {
+            "text": "食舊德，從上吉也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "不克訟，復即命渝，安貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "復即命渝，安貞，不失也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "訟，元吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "訟，元吉，以中正也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "或錫之鞶帶，終朝三褫之。",
+            "notes": [
+              "一作「拕」"
+            ]
+          },
+          "image": {
+            "text": "以訟受服，亦不足敬也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "訟，上剛下險，險而健，訟。訟，有孚，窒，惕，中吉，剛來而得中也。終凶，訟不可成也。利見大人，尚中正也。不利涉大川，入于淵也。",
+        "notes": []
+      },
+      "image": {
+        "text": "天與水違行，訟；君子以作事謀始。",
+        "notes": []
+      }
+    },
+    {
+      "number": 7,
+      "sourceTitle": "師",
+      "lower": "坎",
+      "upper": "坤",
+      "revision": 2405011,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B8%AB&oldid=2405011",
+      "judgment": {
+        "text": "貞丈人吉，无咎。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "師出以律，否臧，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "師出以律；失律，凶也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "在師中吉，无咎；王三錫命。",
+            "notes": []
+          },
+          "image": {
+            "text": "在師中吉，承天寵也。王三錫命，懷萬邦也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "師或輿尸，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "師或輿尸，大无功也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "師左次，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "左次无咎，未失常也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "田有禽，利執言，无咎。長子帥師，弟子輿尸，貞凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "長子帥師，以中行也。弟子輿尸，使不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "大君有命，開國承家，小人勿用。",
+            "notes": []
+          },
+          "image": {
+            "text": "大君有命，以正功也。小人勿用，必亂邦也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "師，眾也。貞，正也。能以眾正，可以王矣。剛中而應，行險而順，以此毒天下，而民從之，吉又何咎矣。",
+        "notes": []
+      },
+      "image": {
+        "text": "地中有水，師；君子以容民畜衆。",
+        "notes": []
+      }
+    },
+    {
+      "number": 8,
+      "sourceTitle": "比",
+      "lower": "坤",
+      "upper": "坎",
+      "revision": 10645543,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%AF%94&oldid=10645543",
+      "judgment": {
+        "text": "吉。原筮元永貞，无咎。不寧方來，後夫凶。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "有孚，比之，无咎。有孚盈缶，終來有它，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "比之初六，有它吉也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "比之自內，貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "比之自內，不自失也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "比之匪人。",
+            "notes": []
+          },
+          "image": {
+            "text": "比之匪人，不亦傷乎！",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "外比之，貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "外比於賢，以從上也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "顯比。王用三敺，失前禽，邑人不誡，吉。",
+            "notes": [
+              "一作「驅」"
+            ]
+          },
+          "image": {
+            "text": "顯比之吉，位正中也。舍逆取順，失前禽也。邑人不誡，上使中也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "比之无首，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "比之无首，无所終也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "比，吉也。比，輔也，下順從也。原筮，元永貞，无咎，以剛中也。不寧方來，上下應也。後夫凶，其道窮也。",
+        "notes": []
+      },
+      "image": {
+        "text": "地上有水，比；先王以建萬國，親諸侯。",
+        "notes": []
+      }
+    },
+    {
+      "number": 9,
+      "sourceTitle": "小畜",
+      "lower": "乾",
+      "upper": "巽",
+      "revision": 10645530,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B0%8F%E7%95%9C&oldid=10645530",
+      "judgment": {
+        "text": "亨。密雲不雨，自我西郊。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "復自道，何其咎，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "復自道，其義吉也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "牽復，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "牽復在中，亦不自失也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "車說輹，夫妻反目。",
+            "notes": [
+              "一作「輿」",
+              "一作「輻」"
+            ]
+          },
+          "image": {
+            "text": "夫妻反目，不能正室也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "有孚，血去惕出，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "有孚。惕出。上合志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "有孚攣如，富以其鄰。",
+            "notes": []
+          },
+          "image": {
+            "text": "有孚攣如，不獨富也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "既雨既處，尚得載，婦貞厲，月幾望，君子征凶。",
+            "notes": [
+              "一作「德」"
+            ]
+          },
+          "image": {
+            "text": "既雨既處，德積載也。君子征凶，有所疑也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "小畜，柔得位而上下應之，曰小畜。健而巽，剛中而志行，乃亨。密雲不雨，尚往也。自我西郊，施未行也。",
+        "notes": []
+      },
+      "image": {
+        "text": "風行天上，小畜，君子以懿文德。",
+        "notes": []
+      }
+    },
+    {
+      "number": 10,
+      "sourceTitle": "履",
+      "lower": "兌",
+      "upper": "乾",
+      "revision": 10647513,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B1%A5&oldid=10647513",
+      "judgment": {
+        "text": "履虎尾，不咥人，亨。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "素履，往无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "素履之往，獨行願也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "履道坦坦，幽人貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "幽人貞吉，中不自亂也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "眇能視，跛能履，履虎尾，咥人，凶。武人為于大君。",
+            "notes": []
+          },
+          "image": {
+            "text": "眇能視，不足以有明也。跛能履，不足以與行也。咥人之凶，位不當也。武人為于大君，志剛也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "履虎尾，愬愬終吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "愬愬終吉，志行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "夬履，貞厲。",
+            "notes": []
+          },
+          "image": {
+            "text": "夬履貞厲，位正當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "視履考詳，其旋元吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "元吉在上，大有慶也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "履，柔履剛也。說而應乎乾，是以履虎尾，不咥人，亨，利貞。剛中正，履帝位而不疚，光明也。",
+        "notes": []
+      },
+      "image": {
+        "text": "上天下澤，履；君子以辨上下，定民志。",
+        "notes": []
+      }
+    },
+    {
+      "number": 11,
+      "sourceTitle": "泰",
+      "lower": "乾",
+      "upper": "坤",
+      "revision": 2106138,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%B3%B0&oldid=2106138",
+      "judgment": {
+        "text": "小往大來，吉亨。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "拔茅茹以其彙，征吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "拔茅征吉，志在外也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "包荒。用馮河，不遐遺；朋亡。得尚于中行。",
+            "notes": []
+          },
+          "image": {
+            "text": "包荒，得尚于中行，以光大也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "无平不陂，无往不復，艱貞无咎。勿恤其孚，于食有福。",
+            "notes": []
+          },
+          "image": {
+            "text": "无往不復，天地際也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "翩翩，不富以其鄰；不戒以孚。",
+            "notes": []
+          },
+          "image": {
+            "text": "翩翩不富，皆失實也。不戒以孚，中心願也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "帝乙歸妹，以祉，元吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "以祉，元吉。中以行願也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "城復于隍，勿用師，自邑告命，貞吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "城復于隍，其命亂也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "泰，小往大來，吉亨。則是天地交而萬物通也，上下交而其志同也。內陽而外陰，內健而外順，內君子而外小人，君子道長，小人道消也。",
+        "notes": []
+      },
+      "image": {
+        "text": "天地交，泰；后以財成天地之道，輔相天地之宜，以左右民。",
+        "notes": []
+      }
+    },
+    {
+      "number": 12,
+      "sourceTitle": "否",
+      "lower": "坤",
+      "upper": "乾",
+      "revision": 10645603,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%90%A6&oldid=10645603",
+      "judgment": {
+        "text": "否之匪人，不利君子貞，大往小來。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "拔茅茹以其彙，貞吉。亨。",
+            "notes": []
+          },
+          "image": {
+            "text": "拔茅貞吉，志在君也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "包承，小人吉，大人否。亨。",
+            "notes": []
+          },
+          "image": {
+            "text": "大人否，亨。不亂羣也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "包羞。",
+            "notes": []
+          },
+          "image": {
+            "text": "包羞，位不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "有命，无咎，疇離祉。",
+            "notes": []
+          },
+          "image": {
+            "text": "有命无咎，志行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "休否，大人吉。其亡其亡，繫于包桑。",
+            "notes": [
+              "一作「苞」"
+            ]
+          },
+          "image": {
+            "text": "大人之吉，位正當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "傾否，先否後喜。",
+            "notes": []
+          },
+          "image": {
+            "text": "否終則傾，何可長也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "否之匪人，不利君子貞，大往小來。則是天地不交而萬物不通也，上下不交而天下无邦也。內陰而外陽，內柔而外剛，內小人而外君子，小人道長，君子道消也。",
+        "notes": []
+      },
+      "image": {
+        "text": "天地不交，否；君子以儉德辟難，不可榮以祿。",
+        "notes": []
+      }
+    },
+    {
+      "number": 13,
+      "sourceTitle": "同人",
+      "lower": "離",
+      "upper": "乾",
+      "revision": 10645635,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%90%8C%E4%BA%BA&oldid=10645635",
+      "judgment": {
+        "text": "同人于野，亨。利涉大川，利君子貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "同人于門，無咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "出門同人，又誰咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "同人于宗，吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "同人于宗，吝道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "伏戎于莽，升其高陵，三歲不興。",
+            "notes": []
+          },
+          "image": {
+            "text": "伏戎于莽，敵剛也。三歲不興，安行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "乘其庸，弗克攻，吉。",
+            "notes": [
+              "一作「墉」"
+            ]
+          },
+          "image": {
+            "text": "乘其庸，義弗克也，其吉，則困而反則也。",
+            "notes": [
+              "一作「墉」"
+            ]
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "同人，先號啕而後笑。大師克相遇。",
+            "notes": []
+          },
+          "image": {
+            "text": "同人之先，以中直也。大師相遇，言相克也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "同人于郊，無悔。",
+            "notes": []
+          },
+          "image": {
+            "text": "同人于郊，志未得也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "同人，柔得位得中，而應乎乾，曰同人。同人曰，同人于野，亨。利涉大川，乾行也。文明以健，中正而應，君子正也。唯君子為能通天下之志。",
+        "notes": []
+      },
+      "image": {
+        "text": "天與火，同人；君子以類族辨物。",
+        "notes": []
+      }
+    },
+    {
+      "number": 14,
+      "sourceTitle": "大有",
+      "lower": "乾",
+      "upper": "離",
+      "revision": 10645712,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A4%A7%E6%9C%89&oldid=10645712",
+      "judgment": {
+        "text": "元亨。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "无交害，匪咎，艱則无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "大有初九，无交害也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "大轝以載，有攸往，无咎。",
+            "notes": [
+              "一作「車」"
+            ]
+          },
+          "image": {
+            "text": "大轝以載，積中不敗也。",
+            "notes": [
+              "一作「車」"
+            ]
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "公用亨于天子，小人弗克。",
+            "notes": []
+          },
+          "image": {
+            "text": "公用亨于天子，小人害也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "匪其尫，无咎。",
+            "notes": [
+              "一作「彭」"
+            ]
+          },
+          "image": {
+            "text": "匪其彭，无咎；明辨晰也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "厥孚交如，威如；吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "厥孚交如，信以發志也。威如之吉，易而无備也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "自天佑之，吉无不利。",
+            "notes": [
+              "一作「右」"
+            ]
+          },
+          "image": {
+            "text": "大有上吉，自天佑也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "大有，柔得尊位，大中而上下應之，曰大有。其德剛健而文明，應乎天而時行，是以元亨。",
+        "notes": []
+      },
+      "image": {
+        "text": "火在天上，大有；君子以遏惡揚善，順天休命。",
+        "notes": []
+      }
+    },
+    {
+      "number": 15,
+      "sourceTitle": "謙",
+      "lower": "艮",
+      "upper": "坤",
+      "revision": 2106142,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%AC%99&oldid=2106142",
+      "judgment": {
+        "text": "亨，君子有終。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "謙謙君子，用涉大川，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "謙謙君子，卑以自牧也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "鳴謙，貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "鳴謙貞吉，中心得也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "勞謙君子，有終吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "勞謙君子，萬民服也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "无不利，撝謙。",
+            "notes": []
+          },
+          "image": {
+            "text": "无不利撝謙；不違則也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "不富，以其鄰，利用侵伐，无不利。",
+            "notes": []
+          },
+          "image": {
+            "text": "利用侵伐，征不服也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "鳴謙，利用行師，征邑國。",
+            "notes": []
+          },
+          "image": {
+            "text": "鳴謙，志未得也。可用行師，征邑國也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "謙，亨，天道下濟而光明，地道卑而上行。天道虧盈而益謙，地道變盈而流謙，鬼神害盈而福謙，人道惡盈而好謙。謙尊而光，卑而不可逾，君子之終也。",
+        "notes": []
+      },
+      "image": {
+        "text": "地中有山，謙；君子以裒多益寡，稱物平施。",
+        "notes": []
+      }
+    },
+    {
+      "number": 16,
+      "sourceTitle": "豫",
+      "lower": "坤",
+      "upper": "震",
+      "revision": 10645735,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%B1%AB&oldid=10645735",
+      "judgment": {
+        "text": "利建侯行師。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "鳴豫，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "初六鳴豫，志窮凶也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "介于石，不終日，貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "不終日，貞吉；以中正也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "盱豫，悔。遲有悔。",
+            "notes": []
+          },
+          "image": {
+            "text": "盱豫有悔，位不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "由豫，大有得。勿疑。朋盍戠。",
+            "notes": [
+              "一作「簪」"
+            ]
+          },
+          "image": {
+            "text": "由豫，大有得；志大行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "貞疾，恆不死。",
+            "notes": []
+          },
+          "image": {
+            "text": "六五貞疾，乘剛也。恆不死，中未亡也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "冥豫，成有渝，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "冥豫在上，何可長也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "豫，剛應而志行，順以動，豫。豫，順以動，故天地如之，而況建侯行師乎？天地以順動，故日月不過，而四時不忒；聖人以順動，則刑罰清而民服。豫之時義大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "雷出地奮，豫。先王以作樂崇德，殷薦之上帝，以配祖考。",
+        "notes": []
+      }
+    },
+    {
+      "number": 17,
+      "sourceTitle": "隨",
+      "lower": "震",
+      "upper": "兌",
+      "revision": 10645020,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%9A%A8&oldid=10645020",
+      "judgment": {
+        "text": "元亨。利貞。无咎。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "官有渝，貞吉。出門交有功。",
+            "notes": []
+          },
+          "image": {
+            "text": "官有渝，從正吉也。出門交有功，不失也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "係小子，失丈夫。",
+            "notes": []
+          },
+          "image": {
+            "text": "系小子，弗兼與也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "係丈夫，失小子。隨，有求得利，居貞。",
+            "notes": []
+          },
+          "image": {
+            "text": "系丈夫，志舍下也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "隨有獲，貞凶。有孚在道，以明，何咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "隨有獲，其義凶也。有孚在道，明功也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "孚于嘉，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "孚于嘉，吉；位正中也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "拘係之，乃從維之。王用亨于西山。",
+            "notes": []
+          },
+          "image": {
+            "text": "拘系之，上窮也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "隨，剛來而下柔，動而說，隨。大亨貞，无咎，而天下隨時，隨時之義大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "澤中有雷，隨；君子以嚮晦入宴息。",
+        "notes": []
+      }
+    },
+    {
+      "number": 18,
+      "sourceTitle": "蠱",
+      "lower": "巽",
+      "upper": "艮",
+      "revision": 2106145,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%A0%B1&oldid=2106145",
+      "judgment": {
+        "text": "元亨。利涉大川。先甲三日，後甲三日。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "幹父之蠱，有子考，无咎，厲終吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "幹父之蠱，意承考也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "幹母之蠱，不可貞。",
+            "notes": []
+          },
+          "image": {
+            "text": "幹母之蠱，得中道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "幹父之蠱，小有悔，无大咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "幹父之蠱，終无咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "裕父之蠱，往見吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "裕父之蠱，往未得也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "幹父之蠱，用譽。",
+            "notes": []
+          },
+          "image": {
+            "text": "幹父用譽，承以德也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "不事王侯，高尚其事。",
+            "notes": []
+          },
+          "image": {
+            "text": "不事王侯，志可則也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "蠱，剛上而柔下，巽而止，蠱。蠱，元亨，而天下治也。利涉大川，往有事也。先甲三日，後甲三日，終則有始，天行也。",
+        "notes": []
+      },
+      "image": {
+        "text": "山下有風，蠱；君子以振民育德。",
+        "notes": []
+      }
+    },
+    {
+      "number": 19,
+      "sourceTitle": "臨",
+      "lower": "兌",
+      "upper": "坤",
+      "revision": 2106146,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%87%A8&oldid=2106146",
+      "judgment": {
+        "text": "元亨。利貞。至于八月有凶。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "咸臨，貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "咸臨貞吉，志行正也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "咸臨，吉无不利。",
+            "notes": []
+          },
+          "image": {
+            "text": "咸臨，吉无不利；未順命也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "甘臨，无攸利。既憂之，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "甘臨，位不當也。既憂之，咎不長也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "至臨，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "至臨无咎，位當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "知臨，大君之宜，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "大君之宜，行中之謂也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "敦臨，吉无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "敦臨之吉，志在內也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "臨，剛浸而長。說而順，剛中而應，大亨以正，天之道也。至于八月有凶，消不久也。",
+        "notes": []
+      },
+      "image": {
+        "text": "澤上有地，臨；君子以教思无窮，容保民无疆。",
+        "notes": []
+      }
+    },
+    {
+      "number": 20,
+      "sourceTitle": "觀",
+      "lower": "坤",
+      "upper": "巽",
+      "revision": 10645159,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%A7%80&oldid=10645159",
+      "judgment": {
+        "text": "盥而不薦，有孚顒若。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "童觀，小人无咎，君子吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "初六童觀，小人道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "窺觀，利女貞。",
+            "notes": []
+          },
+          "image": {
+            "text": "窺觀女貞，亦可醜也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "觀我生，進退。",
+            "notes": []
+          },
+          "image": {
+            "text": "觀我生，進退；未失道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "觀國之光，利用賓于王。",
+            "notes": []
+          },
+          "image": {
+            "text": "觀國之光，尚賓也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "觀我生，君子无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "觀我生，觀民也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "觀其生，君子无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "觀其生，志未平也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "大觀在上，順而巽，中正以觀天下。觀，盥而不薦，有孚顒若，下觀而化也。觀天之神道，而四時不忒，聖人以神道設教，而天下服矣。",
+        "notes": []
+      },
+      "image": {
+        "text": "風行地上，觀；先王以省方，觀民設教。",
+        "notes": []
+      }
+    },
+    {
+      "number": 21,
+      "sourceTitle": "噬嗑",
+      "lower": "震",
+      "upper": "離",
+      "revision": 10645753,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%99%AC%E5%97%91&oldid=10645753",
+      "judgment": {
+        "text": "亨。利用獄。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "屨校滅趾，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "屨校滅趾，不行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "噬膚滅鼻，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "噬膚滅鼻，乘剛也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "噬昔肉，遇毒；小吝，无咎。",
+            "notes": [
+              "一作「臘」"
+            ]
+          },
+          "image": {
+            "text": "遇毒，位不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "噬乾胏，得金矢，利艱貞，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "利艱貞吉，未光也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "噬乾肉，得黃金，貞厲，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "貞厲无咎，得當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "何校滅耳，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "何校滅耳，聰不明也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "頤中有物，曰噬嗑，噬嗑而亨。剛柔分，動而明，雷電合而章。柔得中而上行，雖不當位，利用獄也。",
+        "notes": []
+      },
+      "image": {
+        "text": "雷電噬嗑；先王以明罰敕法。",
+        "notes": []
+      }
+    },
+    {
+      "number": 22,
+      "sourceTitle": "賁",
+      "lower": "離",
+      "upper": "艮",
+      "revision": 2405035,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%B3%81&oldid=2405035",
+      "judgment": {
+        "text": "亨。小利有攸往。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "賁其趾，舍車而徒。",
+            "notes": []
+          },
+          "image": {
+            "text": "舍車而徒，義弗乘也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "賁其須。",
+            "notes": []
+          },
+          "image": {
+            "text": "賁其須，與上興也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "賁如濡如，永貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "永貞之吉，終莫之陵也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "賁如皤如，白馬翰如，匪寇婚媾。",
+            "notes": []
+          },
+          "image": {
+            "text": "六四，當位疑也。匪寇婚媾，終无尤也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "賁於丘園，束帛戔戔，吝，終吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "六五之吉，有喜也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "白賁，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "白賁无咎，上得志也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "賁，亨；柔來而文剛，故亨。分剛上而文柔，故小利有攸往。剛柔交錯，天文也；文明以止，人文也。觀乎天文，以察時變；觀乎人文，以化成天下。",
+        "notes": []
+      },
+      "image": {
+        "text": "山下有火，賁；君子以明庶政，无敢折獄。",
+        "notes": []
+      }
+    },
+    {
+      "number": 23,
+      "sourceTitle": "剝",
+      "lower": "坤",
+      "upper": "艮",
+      "revision": 10645800,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%89%9D&oldid=10645800",
+      "judgment": {
+        "text": "不利。有攸往。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "剝牀以足，蔑貞凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "剝牀以足，以滅下也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "剝牀以辨，蔑貞凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "剝牀以辨，未有與也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "剝之，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "剝之无咎，失上下也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "剝牀以膚，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "剝牀以膚，切近災也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "貫魚，以宮人寵，无不利。",
+            "notes": []
+          },
+          "image": {
+            "text": "以宮人寵，終无尤也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "碩果不食，君子德車，小人剝廬。",
+            "notes": [
+              "一作「得輿」"
+            ]
+          },
+          "image": {
+            "text": "君子得輿，民所載也。小人剝廬，終不可用也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "剝，剝也，柔變剛也。不利有攸往，小人長也。順而止之，觀象也。君子尚消息盈虛，天行也。",
+        "notes": []
+      },
+      "image": {
+        "text": "山附地上，剝；上以厚下，安宅。",
+        "notes": []
+      }
+    },
+    {
+      "number": 24,
+      "sourceTitle": "復",
+      "lower": "震",
+      "upper": "坤",
+      "revision": 10643037,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%BE%A9&oldid=10643037",
+      "judgment": {
+        "text": "亨。出入无疾，朋來无咎。反復其道，七日來復，利有攸往。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "不遠復，无祇悔，元吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "不遠之復，以修身也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "休復，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "休復之吉，以下仁也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "頻復，厲无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "頻復之厲，義无咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "中行獨復。",
+            "notes": []
+          },
+          "image": {
+            "text": "中行獨復，以從道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "敦復，无悔。",
+            "notes": []
+          },
+          "image": {
+            "text": "敦復无悔，中以自考也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "迷復，凶，有災眚。用行師，終有大敗，以其國君，凶；至于十年，不克征。",
+            "notes": []
+          },
+          "image": {
+            "text": "迷復之凶，反君道也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "復亨；剛反，動而以順行，是以出入无疾，朋來无咎。反復其道，七日來復，天行也。利有攸往，剛長也。復其見天地之心乎？",
+        "notes": []
+      },
+      "image": {
+        "text": "雷在地中，復；先王以至日閉關，商旅不行，后不省方。",
+        "notes": []
+      }
+    },
+    {
+      "number": 25,
+      "sourceTitle": "无妄",
+      "lower": "震",
+      "upper": "乾",
+      "revision": 10645038,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%97%A0%E5%A6%84&oldid=10645038",
+      "judgment": {
+        "text": "元亨。利貞。其匪正有眚，不利有攸往。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "无妄，往吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "无妄之往，得志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "不耕穫，不菑畬，則利有攸往。",
+            "notes": []
+          },
+          "image": {
+            "text": "不耕穫，未富也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "无妄之災，或繫之牛，行人之得，邑人之災。",
+            "notes": []
+          },
+          "image": {
+            "text": "行人得牛，邑人災也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "可貞，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "可貞无咎，固有之也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "无妄之疾，勿藥有喜。",
+            "notes": []
+          },
+          "image": {
+            "text": "无妄之藥，不可試也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "无妄，行有眚，无攸利。",
+            "notes": []
+          },
+          "image": {
+            "text": "无妄之行，窮之災也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "无妄，剛自外來，而為主於內。動而健，剛中而應，大亨以正，天之命也。其匪正有眚，不利有攸往。无妄之往，何之矣？天命不佑，行矣哉？",
+        "notes": []
+      },
+      "image": {
+        "text": "天下雷行，物與无妄；先王以茂對時，育萬物。",
+        "notes": []
+      }
+    },
+    {
+      "number": 26,
+      "sourceTitle": "大畜",
+      "lower": "乾",
+      "upper": "艮",
+      "revision": 10646304,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A4%A7%E7%95%9C&oldid=10646304",
+      "judgment": {
+        "text": "利貞，不家食吉，利涉大川。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "有厲利已。",
+            "notes": []
+          },
+          "image": {
+            "text": "有厲利已，不犯災也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "輿說輹。",
+            "notes": [
+              "一作「腹」"
+            ]
+          },
+          "image": {
+            "text": "輿說輹，中无尤也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "良馬逐，利艱貞，吉。日閑輿衛，利有攸往。",
+            "notes": []
+          },
+          "image": {
+            "text": "利有攸往，上合志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "童牛之告，元吉。",
+            "notes": [
+              "一作「牿」"
+            ]
+          },
+          "image": {
+            "text": "六四元吉，有喜也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "豶豕之牙，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "六五之吉，有慶也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "何天之衢，亨。",
+            "notes": []
+          },
+          "image": {
+            "text": "何天之衢，道大行也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "大畜，剛健篤實輝光，日新其德，剛上而尚賢。能止健，大正也。不家食吉，養賢也。利涉大川，應乎天也。",
+        "notes": []
+      },
+      "image": {
+        "text": "天在山中，大畜；君子以多識前言往行，以畜其德。",
+        "notes": []
+      }
+    },
+    {
+      "number": 27,
+      "sourceTitle": "頤",
+      "lower": "震",
+      "upper": "艮",
+      "revision": 10643091,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%A0%A4&oldid=10643091",
+      "judgment": {
+        "text": "貞吉。觀頤，自求口實。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "舍爾靈龜，觀我朵頤，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "觀我朵頤，亦不足貴也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "顛頤，拂經，于丘頤，征凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "六二征凶，行失類也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "拂頤，貞凶，十年勿用，无攸利。",
+            "notes": []
+          },
+          "image": {
+            "text": "十年勿用，道大悖也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "顛頤吉，虎視眈眈，其欲逐逐，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "顛頤之吉，上施光也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "拂經，居貞吉，不可涉大川。",
+            "notes": []
+          },
+          "image": {
+            "text": "居貞之吉，順以從上也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "由頤，厲吉，利涉大川。",
+            "notes": []
+          },
+          "image": {
+            "text": "由頤厲吉，大有慶也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "頤貞吉，養正則吉也。觀頤，觀其所養也；自求口實，觀其自養也。天地養萬物，聖人養賢，以及萬民；頤之時大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "山下有雷，頤；君子以慎言語，節飲食。",
+        "notes": []
+      }
+    },
+    {
+      "number": 28,
+      "sourceTitle": "大過",
+      "lower": "巽",
+      "upper": "兌",
+      "revision": 10645184,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A4%A7%E9%81%8E&oldid=10645184",
+      "judgment": {
+        "text": "棟橈，利有攸往，亨。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "藉用白茅，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "藉用白茅，柔在下也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "枯楊生稊，老夫得其女妻，无不利。",
+            "notes": []
+          },
+          "image": {
+            "text": "老夫女妻，過以相與也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "棟橈，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "棟橈之凶，不可以有輔也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "棟隆，吉。有它吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "棟隆之吉，不橈乎下也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "枯楊生華，老婦得其士夫，无咎无譽。",
+            "notes": []
+          },
+          "image": {
+            "text": "枯楊生華，何可久也。老婦士夫，亦可醜也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "過涉滅頂，凶，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "過涉之凶，不可咎也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "大過，大者過也。棟橈，本末弱也。剛過而中，巽而說行，利有攸往，乃亨。大過之時大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "澤滅木，大過。君子以獨立不懼，遯世无悶。",
+        "notes": []
+      }
+    },
+    {
+      "number": 29,
+      "sourceTitle": "坎",
+      "lower": "坎",
+      "upper": "坎",
+      "revision": 10646381,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%9D%8E&oldid=10646381",
+      "judgment": {
+        "text": "習坎：有孚，維心亨。行有尚。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "習坎，入于坎窞，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "習坎入坎，失道凶也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "坎有險，求小得。",
+            "notes": []
+          },
+          "image": {
+            "text": "求小得，未出中也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "來之坎坎，險且枕，入于坎窞，勿用。",
+            "notes": []
+          },
+          "image": {
+            "text": "來之坎坎，終无功也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "尊酒簋，貳用缶。内約自牖，終无咎。",
+            "notes": [
+              "一作「樽酒簋貳，用缶，納約自牖」"
+            ]
+          },
+          "image": {
+            "text": "樽酒簋貳，剛柔济也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "坎不盈，禔既平，无咎。",
+            "notes": [
+              "一作「祗」"
+            ]
+          },
+          "image": {
+            "text": "坎不盈，中未大也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "係用徽纆，寘于叢棘，三歲不得，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "上六失道，凶三歲也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "習坎，重險也。水流而不盈，行險而不失其信。維心亨，乃以剛中也。行有尚，往有功也。天險不可升也，地險山川丘陵也，王公設險以守其國，坎之時用大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "水洊至，習坎；君子以常德行，習教事。",
+        "notes": []
+      }
+    },
+    {
+      "number": 30,
+      "sourceTitle": "離",
+      "lower": "離",
+      "upper": "離",
+      "revision": 10646424,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%9B%A2&oldid=10646424",
+      "judgment": {
+        "text": "利貞。亨。畜牝牛，吉。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "履錯然，敬之无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "履錯之敬，以辟咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "黃離，元吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "黃離元吉，得中道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "日昃之離，不鼓缶而歌，則大耋之差，凶。",
+            "notes": [
+              "一作「嗟」"
+            ]
+          },
+          "image": {
+            "text": "日昃之離，何可久也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "突如其來如，焚如，死如，棄如。",
+            "notes": []
+          },
+          "image": {
+            "text": "突如其來如，无所容也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "出涕沱若，戚嗟若，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "六五之吉，離王公也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "王用出征，有嘉折首，獲匪其醜，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "王用出征，以正邦也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "離，麗也；日月麗乎天，百穀草木麗乎土，重明以麗乎正，乃化成天下。柔麗乎中正，故亨；是以畜牝牛吉也。",
+        "notes": []
+      },
+      "image": {
+        "text": "明兩作離，大人以繼明照于四方。",
+        "notes": []
+      }
+    },
+    {
+      "number": 31,
+      "sourceTitle": "咸",
+      "lower": "艮",
+      "upper": "兌",
+      "revision": 10646450,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%92%B8&oldid=10646450",
+      "judgment": {
+        "text": "亨。利貞。取女吉。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "咸其拇。",
+            "notes": [
+              "一作「母」"
+            ]
+          },
+          "image": {
+            "text": "咸其拇，志在外也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "咸其腓，凶，居吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "雖凶，居吉，順不害也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "咸其股，執其隨，往吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "咸其股，亦不處也。志在隨人，所執下也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "貞吉悔亡，憧憧往來，朋從爾思。",
+            "notes": []
+          },
+          "image": {
+            "text": "貞吉悔亡，未感害也。憧憧往來，未光大也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "咸其脢，无悔。",
+            "notes": []
+          },
+          "image": {
+            "text": "咸其脢，志末也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "咸其輔，頰，舌。",
+            "notes": []
+          },
+          "image": {
+            "text": "咸其輔，頰，舌，滕口說也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "咸，感也。柔上而剛下，二氣感應以相與，止而說，男下女，是以亨利貞，取女吉也。天地感而萬物化生，聖人感人心而天下和平；觀其所感，而天地萬物之情可見矣！",
+        "notes": []
+      },
+      "image": {
+        "text": "山上有澤，咸；君子以虛受人。",
+        "notes": []
+      }
+    },
+    {
+      "number": 32,
+      "sourceTitle": "恒",
+      "lower": "巽",
+      "upper": "震",
+      "revision": 10646486,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%81%92&oldid=10646486",
+      "judgment": {
+        "text": "恆：亨，无咎。利貞，利有攸往。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "浚恆，貞凶，无攸利。",
+            "notes": []
+          },
+          "image": {
+            "text": "浚恆之凶，始求深也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "悔亡。",
+            "notes": []
+          },
+          "image": {
+            "text": "九二悔亡，能久中也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "不恆其德，或承之羞，貞吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "不恆其德，无所容也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "田无禽。",
+            "notes": []
+          },
+          "image": {
+            "text": "久非其位，安得禽也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "恆其德，貞，婦人吉，夫子凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "婦人貞吉，從一而終也。夫子制義，從婦凶也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "震恆，凶。",
+            "notes": [
+              "一作「振」"
+            ]
+          },
+          "image": {
+            "text": "振恆在上，大无功也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "恆，久也。剛上而柔下，雷風相與，巽而動，剛柔皆應，恆。恆亨无咎，利貞；久于其道也，天地之道，恆久而不已也。利有攸往，終則有始也。日月得天，而能久照，四時變化，而能久成，聖人久于其道，而天下化成；觀其所恆，而天地萬物之情可見矣！",
+        "notes": []
+      },
+      "image": {
+        "text": "雷風，恆；君子以立不易方。",
+        "notes": []
+      }
+    },
+    {
+      "number": 33,
+      "sourceTitle": "遯",
+      "lower": "艮",
+      "upper": "乾",
+      "revision": 10645108,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%81%AF&oldid=10645108",
+      "judgment": {
+        "text": "亨。小利貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "遯尾，厲，勿用有攸往。",
+            "notes": []
+          },
+          "image": {
+            "text": "遯尾之厲，不往何災也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "執之用黃牛之革，莫之勝說。",
+            "notes": []
+          },
+          "image": {
+            "text": "執用黃牛，固志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "係遯，有疾厲，畜臣妾吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "係遯之厲，有疾憊也。畜臣妾吉，不可大事也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "好遯君子吉，小人否。",
+            "notes": []
+          },
+          "image": {
+            "text": "君子好遯，小人否也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "嘉遯，貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "嘉遯貞吉，以正志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "肥遯，无不利。",
+            "notes": []
+          },
+          "image": {
+            "text": "肥遯，无不利；无所疑也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "遯亨，遯而亨也。剛當位而應，與時行也。小利貞，浸而長也。遯之時義大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "天下有山，遯；君子以遠小人，不惡而嚴。",
+        "notes": []
+      }
+    },
+    {
+      "number": 34,
+      "sourceTitle": "大壯",
+      "lower": "乾",
+      "upper": "震",
+      "revision": 10646529,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A4%A7%E5%A3%AF&oldid=10646529",
+      "judgment": {
+        "text": "利貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "壯于趾，征凶，有孚。",
+            "notes": []
+          },
+          "image": {
+            "text": "壯于趾，其孚窮也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "九二貞吉，以中也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "小人用壯，君子用罔，貞厲。羝羊觸藩，羸其角。",
+            "notes": []
+          },
+          "image": {
+            "text": "小人用壯，君子罔也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "貞吉悔亡，藩決不羸，壯于大轝之腹。",
+            "notes": [
+              "一作「輿」",
+              "一作「輹」"
+            ]
+          },
+          "image": {
+            "text": "藩決不羸，尚往也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "喪羊于易，无悔。",
+            "notes": []
+          },
+          "image": {
+            "text": "喪羊于易，位不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "羝羊觸藩，不能退，不能遂，无攸利，艱則吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "不能退，不能遂，不詳也。艱則吉，咎不長也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "大壯，大者壯也。剛以動，故壯。大壯利貞；大者正也。正大而天地之情可見矣！",
+        "notes": []
+      },
+      "image": {
+        "text": "雷在天上，大壯；君子以非禮弗履。",
+        "notes": []
+      }
+    },
+    {
+      "number": 35,
+      "sourceTitle": "晉",
+      "lower": "坤",
+      "upper": "離",
+      "revision": 10646579,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%99%89&oldid=10646579",
+      "judgment": {
+        "text": "康侯用錫馬蕃庶，晝日三接。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "晉如，摧如，貞吉。罔孚，裕无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "晉如，摧如；獨行正也。裕无咎；未受命也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "晉如，愁如，貞吉。受茲介福，于其王母。",
+            "notes": []
+          },
+          "image": {
+            "text": "受茲介福，以中正也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "眾允，悔亡。",
+            "notes": []
+          },
+          "image": {
+            "text": "眾允之志，上行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "晉如鼫鼠，貞厲。",
+            "notes": [
+              "一作「碩」"
+            ]
+          },
+          "image": {
+            "text": "鼫鼠貞厲，位不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "悔亡，矢得勿恤，往吉无不利。",
+            "notes": [
+              "一作「失」"
+            ]
+          },
+          "image": {
+            "text": "失得勿恤，往有慶也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "晉其角，維用伐邑，厲吉无咎，貞吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "維用伐邑，道未光也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "晉，進也。明出地上，順而麗乎大明，柔進而上行。是以康侯用錫馬蕃庶，晝日三接也。",
+        "notes": []
+      },
+      "image": {
+        "text": "明出地上，晉；君子以自昭明德。",
+        "notes": []
+      }
+    },
+    {
+      "number": 36,
+      "sourceTitle": "明夷",
+      "lower": "離",
+      "upper": "坤",
+      "revision": 10644507,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%98%8E%E5%A4%B7&oldid=10644507",
+      "judgment": {
+        "text": "利艱貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "明夷于飛，垂其翼。君子于行，三日不食，有攸往，主人有言。",
+            "notes": []
+          },
+          "image": {
+            "text": "君子于行，義不食也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "明夷，夷于左股，用拯馬壯，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "六二之吉，順以則也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "明夷于南狩，得其大首，不可疾貞。",
+            "notes": []
+          },
+          "image": {
+            "text": "南狩之志，乃大得也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "入于左腹，獲明夷之心，于出門庭。",
+            "notes": []
+          },
+          "image": {
+            "text": "入于左腹，獲心意也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "箕子之明夷，利貞。",
+            "notes": []
+          },
+          "image": {
+            "text": "箕子之貞，明不可息也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "不明晦，初登于天，後入于地。",
+            "notes": []
+          },
+          "image": {
+            "text": "初登于天，照四國也。後入于地，失則也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "明入地中，明夷。內文明而外柔順，以蒙大難，文王以之。利艱貞，晦其明也，內難而能正其志，箕子以之。",
+        "notes": []
+      },
+      "image": {
+        "text": "明入地中，明夷；君子以蒞眾，用晦而明。",
+        "notes": []
+      }
+    },
+    {
+      "number": 37,
+      "sourceTitle": "家人",
+      "lower": "離",
+      "upper": "巽",
+      "revision": 2405005,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%AE%B6%E4%BA%BA&oldid=2405005",
+      "judgment": {
+        "text": "利女貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "閑有家，悔亡。",
+            "notes": []
+          },
+          "image": {
+            "text": "閑有家，志未變也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "无攸遂，在中饋，貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "六二之吉，順以巽也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "家人嗃嗃，悔厲吉；婦子嘻嘻，終吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "家人嗃嗃，未失也；婦子嘻嘻，失家節也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "富家，大吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "富家大吉，順在位也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "王假有家，勿恤。吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "王假有家，交相愛也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "有孚威如，終吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "威如之吉，反身之謂也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "家人，女正位乎內，男正位乎外，男女正，天地之大義也。家人有嚴君焉，父母之謂也。父父，子子，兄兄，弟弟，夫夫，婦婦，而家道正；正家而天下定矣。",
+        "notes": []
+      },
+      "image": {
+        "text": "風自火出，家人；君子以言有物，而行有恆。",
+        "notes": []
+      }
+    },
+    {
+      "number": 38,
+      "sourceTitle": "睽",
+      "lower": "兌",
+      "upper": "離",
+      "revision": 10646622,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E7%9D%BD&oldid=10646622",
+      "judgment": {
+        "text": "小事吉。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "悔亡，喪馬勿逐，自復；見惡人无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "見惡人，以辟咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "遇主于巷，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "遇主于巷，未失道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "見輿曳，其牛𧤊，其人天且劓，无初有終。",
+            "notes": [
+              "一作「掣」"
+            ]
+          },
+          "image": {
+            "text": "見輿曳，位不當也。无初有終，遇剛也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "睽孤，遇元夫，交孚，厲无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "交孚无咎，志行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "悔亡，厥宗噬膚，往何咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "厥宗噬膚，往有慶也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "睽孤，見豕負涂，載鬼一車，先張之弧，後說之弧，匪寇婚媾，往遇雨則吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "遇雨之吉，群疑亡也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "睽，火動而上，澤動而下；二女同居，其志不同行；說而麗乎明，柔進而上行，得中而應乎剛；是以小事吉。天地睽，而其事同也；男女睽，而其志通也；萬物睽，而其事類也；睽之時用大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "上火下澤，睽；君子以同而異。",
+        "notes": []
+      }
+    },
+    {
+      "number": 39,
+      "sourceTitle": "蹇",
+      "lower": "艮",
+      "upper": "坎",
+      "revision": 2405036,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%B9%87&oldid=2405036",
+      "judgment": {
+        "text": "利西南，不利東北；利見大人，貞吉。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "往蹇，來譽。",
+            "notes": []
+          },
+          "image": {
+            "text": "往蹇來譽，宜待也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "王臣蹇蹇，匪躬之故。",
+            "notes": []
+          },
+          "image": {
+            "text": "王臣蹇蹇，終无尤也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "往蹇來反。",
+            "notes": []
+          },
+          "image": {
+            "text": "往蹇來反，內喜之也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "往蹇來連。",
+            "notes": []
+          },
+          "image": {
+            "text": "往蹇來連，當位實也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "大蹇朋來。",
+            "notes": []
+          },
+          "image": {
+            "text": "大蹇朋來，以中節也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "往蹇來碩，吉；利見大人。",
+            "notes": []
+          },
+          "image": {
+            "text": "往蹇來碩，志在內也。利見大人，以從貴也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "蹇，難也，險在前也。見險而能止，知矣哉！蹇利西南，往得中也；不利東北，其道窮也。利見大人，往有功也。當位貞吉，以正邦也。蹇之時用大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "山上有水，蹇；君子以反身修德。",
+        "notes": []
+      }
+    },
+    {
+      "number": 40,
+      "sourceTitle": "解",
+      "lower": "坎",
+      "upper": "震",
+      "revision": 10646666,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%A7%A3&oldid=10646666",
+      "judgment": {
+        "text": "利西南，无所往，其來復吉。有攸往，夙吉。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "剛柔之際，義无咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "田獲三狐，得黃矢，貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "九二貞吉，得中道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "負且乘，致寇至，貞吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "負且乘，亦可丑也，自我致戎，又誰咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "解而拇，朋至斯孚。",
+            "notes": []
+          },
+          "image": {
+            "text": "解而拇，未當位也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "君子惟有解，吉；有孚于小人。",
+            "notes": [
+              "一作「維」"
+            ]
+          },
+          "image": {
+            "text": "君子有解，小人退也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "公用射隼，于高墉之上，獲之，无不利。",
+            "notes": [
+              "一作「庸」"
+            ]
+          },
+          "image": {
+            "text": "公用射隼，以解悖也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "解，險以動，動而免乎險，解。解利西南，往得眾也。其來復吉，乃得中也。有攸往夙吉，往有功也。天地解，而雷雨作，雷雨作，而百果草木皆甲坼，解之時義大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "雷雨作，解；君子以赦過宥罪。",
+        "notes": []
+      }
+    },
+    {
+      "number": 41,
+      "sourceTitle": "損",
+      "lower": "兌",
+      "upper": "艮",
+      "revision": 10646704,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%90%8D&oldid=10646704",
+      "judgment": {
+        "text": "有孚，元吉。无咎，可貞，利有攸往。曷之用？二簋可用享。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "祀事遄往，无咎，酌損之。",
+            "notes": [
+              "一作「已」"
+            ]
+          },
+          "image": {
+            "text": "已事遄往，尚合志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "利貞，征凶，弗損益之。",
+            "notes": []
+          },
+          "image": {
+            "text": "九二利貞，中以為志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "三人行，則損一人；一人行，則得其友。",
+            "notes": []
+          },
+          "image": {
+            "text": "一人行，三則疑也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "損其疾，使遄有喜，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "損其疾，亦可喜也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "或益之，十朋之龜弗克違，元吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "六五元吉，自上佑也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "弗損益之，无咎，貞吉，利有攸往，得臣无家。",
+            "notes": []
+          },
+          "image": {
+            "text": "弗損益之，大得志也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "損，損下益上，其道上行。損而有孚，元吉，无咎，可貞，利有攸往。曷之用？二簋可用享；二簋應有時。損剛益柔有時，損益盈虛，與時偕行。",
+        "notes": []
+      },
+      "image": {
+        "text": "山下有澤，損；君子以懲忿窒欲。",
+        "notes": []
+      }
+    },
+    {
+      "number": 42,
+      "sourceTitle": "益",
+      "lower": "震",
+      "upper": "巽",
+      "revision": 10646726,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E7%9B%8A&oldid=10646726",
+      "judgment": {
+        "text": "利有攸往。利涉大川。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "利用為大作，元吉，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "元吉无咎，下不厚事也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "或益之，十朋之龜弗克違，永貞吉。王用享于帝，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "或益之，自外來也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "益之用凶事，无咎。有孚中行，告公用圭。",
+            "notes": []
+          },
+          "image": {
+            "text": "益用凶事，固有之也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "中行，告公從。利用為依遷國。",
+            "notes": [
+              "一作「邦」"
+            ]
+          },
+          "image": {
+            "text": "告公從，以益志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "有孚惠心，勿問元吉。有孚惠我德。",
+            "notes": []
+          },
+          "image": {
+            "text": "有孚惠心，勿問之矣。惠我德，大得志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "莫益之，或擊之，立心勿恆，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "莫益之，偏辭也。或擊之，自外來也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "益，損上益下，民說无疆，自上下下，其道大光。利有攸往，中正有慶。利涉大川，木道乃行。益動而巽，日進无疆。天施地生，其益无方。凡益之道，與時偕行。",
+        "notes": []
+      },
+      "image": {
+        "text": "風雷，益；君子以見善則遷，有過則改。",
+        "notes": []
+      }
+    },
+    {
+      "number": 43,
+      "sourceTitle": "夬",
+      "lower": "乾",
+      "upper": "兌",
+      "revision": 2405003,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A4%AC&oldid=2405003",
+      "judgment": {
+        "text": "揚于王庭，孚號，有厲，告自邑，不利即戎，利有攸往。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "壯于前趾，往不勝為咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "不勝而往，咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "惕號，莫夜有戎，勿恤。",
+            "notes": []
+          },
+          "image": {
+            "text": "莫夜有戎，得中道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "壯于頄，有凶。君子夬夬，獨行遇雨，若濡有慍，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "君子夬夬，終无咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "臀无膚，其行次且。牽羊悔亡，聞言不信。",
+            "notes": []
+          },
+          "image": {
+            "text": "其行次且，位不當也。聞言不信，聰不明也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "莧陸夬夬，中行无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "中行无咎，中未光也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "无號，終有凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "无號之凶，終不可長也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "夬，決也，剛決柔也。健而說，決而和，揚于王庭，柔乘五剛也。孚號有厲，其危乃光也。告自邑，不利即戎，所尚乃窮也。利有攸往，剛長乃終也。",
+        "notes": []
+      },
+      "image": {
+        "text": "澤上于天，夬；君子以施祿及下，居德則忌。",
+        "notes": []
+      }
+    },
+    {
+      "number": 44,
+      "sourceTitle": "姤",
+      "lower": "巽",
+      "upper": "乾",
+      "revision": 10646826,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A7%A4&oldid=10646826",
+      "judgment": {
+        "text": "女壯，勿用取女。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "系于金柅，貞吉，有攸往，見凶，羸豕，孚，蹢躅。",
+            "notes": [
+              "一作「𨅙𨄃」"
+            ]
+          },
+          "image": {
+            "text": "系于金柅，柔道牽也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "包有魚，无咎，不利賓。",
+            "notes": []
+          },
+          "image": {
+            "text": "包有魚，義不及賓也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "臀无膚，其行次且，厲，无大咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "其行次且，行未牽也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "包无魚，起凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "无魚之凶，遠民也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "以杞包瓜，含章，有隕自天。",
+            "notes": [
+              "一作「苞」"
+            ]
+          },
+          "image": {
+            "text": "九五含章，中正也。有隕自天，志不舍命也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "姤其角，吝，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "姤其角，上窮吝也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "姤，遇也，柔遇剛也。勿用取女，不可與長也。天地相遇，品物咸章也。剛遇中正，天下大行也。姤之時義大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "天下有風，姤；后以施命誥四方。",
+        "notes": []
+      }
+    },
+    {
+      "number": 45,
+      "sourceTitle": "萃",
+      "lower": "坤",
+      "upper": "兌",
+      "revision": 10647546,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%90%83&oldid=10647546",
+      "judgment": {
+        "text": "王假有廟，利見大人，亨。利貞。用大牲吉，利有攸往。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "有孚不終，乃亂乃萃，若號一握為笑，勿恤，往无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "乃亂乃萃，其志亂也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "引吉，无咎，孚乃利用禴。",
+            "notes": []
+          },
+          "image": {
+            "text": "引吉无咎，中未變也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "萃如，嗟如，无攸利，往无咎，小吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "往无咎，上巽也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "大吉，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "大吉无咎，位不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "萃有位，无咎。匪孚，元永貞，悔亡。",
+            "notes": []
+          },
+          "image": {
+            "text": "萃有位，志未光也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "齎資涕洟，无咎。",
+            "notes": [
+              "一作「咨」"
+            ]
+          },
+          "image": {
+            "text": "齎咨涕洟，未安上也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "萃，聚也；順以說，剛中而應，故聚也。王假有廟，致孝享也。利見大人亨，聚以正也。用大牲吉，利有攸往，順天命也。觀其所聚，而天地萬物之情可見矣。",
+        "notes": []
+      },
+      "image": {
+        "text": "澤上于地，萃；君子以除戎器，戒不虞。",
+        "notes": []
+      }
+    },
+    {
+      "number": 46,
+      "sourceTitle": "升",
+      "lower": "巽",
+      "upper": "坤",
+      "revision": 10646879,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%8D%87&oldid=10646879",
+      "judgment": {
+        "text": "元亨，用見大人，勿恤，南征吉。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "允升，大吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "允升大吉，上合志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "孚乃利用禴，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "九二之孚，有喜也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "升虛邑。",
+            "notes": []
+          },
+          "image": {
+            "text": "升虛邑，无所疑也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "王用享于岐山，吉无咎。",
+            "notes": [
+              "一作「亨」"
+            ]
+          },
+          "image": {
+            "text": "王用亨于岐山，順事也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "貞吉，升階。",
+            "notes": []
+          },
+          "image": {
+            "text": "貞吉升階，大得志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "冥升，利于不息之貞。",
+            "notes": []
+          },
+          "image": {
+            "text": "冥升在上，消不富也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "柔以時升，巽而順，剛中而應，是以大亨。用見大人，勿恤；有慶也。南征吉，志行也。",
+        "notes": []
+      },
+      "image": {
+        "text": "地中生木，升；君子以順德，積小以高大。",
+        "notes": []
+      }
+    },
+    {
+      "number": 47,
+      "sourceTitle": "困",
+      "lower": "坎",
+      "upper": "兌",
+      "revision": 10647032,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%9B%B0&oldid=10647032",
+      "judgment": {
+        "text": "亨，貞大人吉，无咎，有言不信。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "臀困于株木，入于幽谷，三歲不覿。",
+            "notes": []
+          },
+          "image": {
+            "text": "入于幽谷，幽不明也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "困于酒食，朱紱方來，利用亨祀，征凶，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "困于酒食，中有慶也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "困于石，據于蒺蔾，入于其宮，不見其妻，凶。",
+            "notes": [
+              "一作「藜」"
+            ]
+          },
+          "image": {
+            "text": "據于蒺藜，乘剛也。入于其宮，不見其妻，不祥也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "來荼荼，困于金轝，吝，有終。",
+            "notes": [
+              "一作「徐徐」",
+              "一作「車」"
+            ]
+          },
+          "image": {
+            "text": "來徐徐，志在下也。雖不當位，有與也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "劓刖，困于赤紱，乃徐有說，利用祭祀。",
+            "notes": []
+          },
+          "image": {
+            "text": "劓刖，志未得也。乃徐有說，以中直也。利用祭祀，受福也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "困于葛藟，于臲卼，曰動悔。有悔，征吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "困于葛藟，未當也。動悔，有悔，吉行也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "困，剛掩也。險以說，困而不失其所，亨；其唯君子乎？貞大人吉，以剛中也。有言不信，尚口乃窮也。",
+        "notes": []
+      },
+      "image": {
+        "text": "澤无水，困；君子以致命遂志。",
+        "notes": []
+      }
+    },
+    {
+      "number": 48,
+      "sourceTitle": "井",
+      "lower": "巽",
+      "upper": "坎",
+      "revision": 10645240,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E4%BA%95&oldid=10645240",
+      "judgment": {
+        "text": "改邑不改井，无喪无得，往來井井。汔至亦未繘井。羸其瓶，凶。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "井泥不食，舊井无禽。",
+            "notes": []
+          },
+          "image": {
+            "text": "井泥不食，下也。舊井无禽，時舍也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "井谷射鮒，瓮敝漏。",
+            "notes": []
+          },
+          "image": {
+            "text": "井谷射鮒，无與也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "井渫不食，為我心惻，可用汲，王明，並受其福。",
+            "notes": []
+          },
+          "image": {
+            "text": "井渫不食，行惻也。求王明，受福也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "井甃，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "井甃无咎，修井也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "井冽，寒泉食。",
+            "notes": []
+          },
+          "image": {
+            "text": "寒泉之食，中正也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "井收勿幕，有孚元吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "元吉在上，大成也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "巽乎水而上水，井；井養而不窮也。改邑不改井，乃以剛中也。汔至亦未繘井，未有功也。羸其瓶，是以凶也。",
+        "notes": []
+      },
+      "image": {
+        "text": "木上有水，井；君子以勞民勸相。",
+        "notes": []
+      }
+    },
+    {
+      "number": 49,
+      "sourceTitle": "革",
+      "lower": "離",
+      "upper": "兌",
+      "revision": 10643173,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%9D%A9&oldid=10643173",
+      "judgment": {
+        "text": "已日乃孚，元亨。利貞。悔亡。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "鞏用黃牛之革。",
+            "notes": []
+          },
+          "image": {
+            "text": "鞏用黃牛，不可以有為也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "已日乃革之，征吉，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "已日革之，行有嘉也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "征凶，貞厲，革言三就，有孚。",
+            "notes": []
+          },
+          "image": {
+            "text": "革言三就，又何之矣。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "悔亡，有孚改命，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "改命之吉，信志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "大人虎變，未占有孚。",
+            "notes": []
+          },
+          "image": {
+            "text": "大人虎變，其文炳也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "君子豹變，小人革面，征凶，居貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "君子豹變，其文蔚也。小人革面，順以從君也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "革，水火相息，二女同居，其志不相得，曰革。已日乃孚；革而信也。文明以說，大亨以正，革而當，其悔乃亡。天地革而四時成，湯武革命，順乎天而應乎人，革之時義大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "澤中有火，革；君子以治歷明時。",
+        "notes": []
+      }
+    },
+    {
+      "number": 50,
+      "sourceTitle": "鼎",
+      "lower": "巽",
+      "upper": "離",
+      "revision": 10647086,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%BC%8E&oldid=10647086",
+      "judgment": {
+        "text": "元吉，亨。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "鼎顛趾，利出否，得妾以其子，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "鼎顛趾，未悖也。利出否，以從貴也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "鼎有實，我仇有疾，不我能即，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "鼎有實，慎所之也。我仇有疾，終无尤也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "鼎耳革，其行塞，雉膏不食，方雨虧悔，終吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "鼎耳革，失其義也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "鼎折足，覆公餗，其刑渥，凶。",
+            "notes": [
+              "一作「形」"
+            ]
+          },
+          "image": {
+            "text": "覆公餗，信如何也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "鼎黃耳金鉉，利貞。",
+            "notes": []
+          },
+          "image": {
+            "text": "鼎黃耳，中以為實也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "鼎玉鉉，大吉，无不利。",
+            "notes": []
+          },
+          "image": {
+            "text": "玉鉉在上，剛柔節也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "鼎，象也。以木巽火，亨飪也。聖人亨以享上帝，而大亨以養聖賢。巽而耳目聰明，柔進而上行，得中而應乎剛，是以元亨。",
+        "notes": []
+      },
+      "image": {
+        "text": "木上有火，鼎；君子以正位凝命。",
+        "notes": []
+      }
+    },
+    {
+      "number": 51,
+      "sourceTitle": "震",
+      "lower": "震",
+      "upper": "震",
+      "revision": 10644930,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%9C%87&oldid=10644930",
+      "judgment": {
+        "text": "亨。震來虩虩，笑言啞啞。震驚百里，不喪匕鬯。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "震來虩虩，後笑言啞啞，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "震來虩虩，恐致福也。笑言啞啞，後有則也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "震來厲，億喪貝，躋于九陵，勿逐，七日得。",
+            "notes": []
+          },
+          "image": {
+            "text": "震來厲，乘剛也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "震蘇蘇，震行无眚。",
+            "notes": []
+          },
+          "image": {
+            "text": "震蘇蘇，位不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "震遂泥。",
+            "notes": []
+          },
+          "image": {
+            "text": "震遂泥，未光也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "震往來厲，億无喪，有事。",
+            "notes": []
+          },
+          "image": {
+            "text": "震往來厲，危行也。其事在中，大无喪也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "震索索，視矍矍，征凶。震不于其躬，于其鄰，无咎。婚媾有言。",
+            "notes": []
+          },
+          "image": {
+            "text": "震索索，中未得也。雖凶无咎，畏鄰戒也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "震，亨。震來虩虩，恐致福也。笑言啞啞，後有則也。震驚百里，驚遠而懼邇也。出可以守宗廟社稷，以為祭主也。",
+        "notes": []
+      },
+      "image": {
+        "text": "洊雷，震；君子以恐懼修省。",
+        "notes": []
+      }
+    },
+    {
+      "number": 52,
+      "sourceTitle": "艮",
+      "lower": "艮",
+      "upper": "艮",
+      "revision": 10647135,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%89%AE&oldid=10647135",
+      "judgment": {
+        "text": "艮其背，不獲其身，行其庭，不見其人，无咎。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "艮其趾，无咎，利永貞。",
+            "notes": []
+          },
+          "image": {
+            "text": "艮其趾，未失正也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "艮其腓，不拯其隨，其心不快。",
+            "notes": []
+          },
+          "image": {
+            "text": "不拯其隨，未退聽也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "艮其限，裂其夤，厲閽心。",
+            "notes": [
+              "一作「列」",
+              "一作「薰」"
+            ]
+          },
+          "image": {
+            "text": "艮其限，危薰心也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "艮其身，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "艮其身，止諸躬也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "艮其輔，言有孚，悔亡。",
+            "notes": [
+              "一作「序」"
+            ]
+          },
+          "image": {
+            "text": "艮其輔，以中正也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "敦艮，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "敦艮之吉，以厚終也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "艮，止也。時止則止，時行則行，動靜不失其時，其道光明。艮其止，止其所也。上下敵應，不相與也。是以不獲其身，行其庭不見其人，无咎也。",
+        "notes": []
+      },
+      "image": {
+        "text": "兼山，艮；君子以思不出其位。",
+        "notes": []
+      }
+    },
+    {
+      "number": 53,
+      "sourceTitle": "漸",
+      "lower": "艮",
+      "upper": "巽",
+      "revision": 2560535,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%BC%B8&oldid=2560535",
+      "judgment": {
+        "text": "女歸吉，利貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "鴻漸于干，小子厲，有言，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "小子之厲，義无咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "鴻漸于磐，飲食衎衎，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "飲食衎衎，不素飽也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "鴻漸于陸，夫征不復，婦孕不育，凶；利禦寇。",
+            "notes": []
+          },
+          "image": {
+            "text": "夫征不復，離群丑也。婦孕不育，失其道也。利用禦寇，順相保也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "鴻漸于木，或得其桷，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "或得其桷，順以巽也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "鴻漸于陵，婦三歲不孕，終莫之勝，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "終莫之勝，吉；得所愿也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "鴻漸于陸，其羽可用為儀，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "其羽可用為儀，吉；不可亂也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "漸之進也，女歸吉也。進得位，往有功也。進以正，可以正邦也。其位剛，得中也。止而巽，動不窮也。",
+        "notes": []
+      },
+      "image": {
+        "text": "山上有木，漸；君子以居賢德，善俗。",
+        "notes": []
+      }
+    },
+    {
+      "number": 54,
+      "sourceTitle": "歸妹",
+      "lower": "兌",
+      "upper": "震",
+      "revision": 10647182,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%AD%B8%E5%A6%B9&oldid=10647182",
+      "judgment": {
+        "text": "征凶，无攸利。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "歸妹以娣，跛能履，征吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "歸妹以娣，以恆也。跛能履吉，相承也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "眇能視，利幽人之貞。",
+            "notes": [
+              "一作「而」"
+            ]
+          },
+          "image": {
+            "text": "利幽人之貞，未變常也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "歸妹以須，反歸以娣。",
+            "notes": []
+          },
+          "image": {
+            "text": "歸妹以須，未當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "歸妹愆期，遲歸有時。",
+            "notes": []
+          },
+          "image": {
+            "text": "愆期之志，有待而行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "帝乙歸妹，其君之袂，不如其娣之袂良，月幾望，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "帝乙歸妹，不如其娣之袂良也。其位在中，以貴行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "女承筐无實，士刲羊无血，无攸利。",
+            "notes": []
+          },
+          "image": {
+            "text": "上六无實，承虛筐也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "歸妹，天地之大義也。天地不交，而萬物不興，歸妹人之終始也。說以動，所歸妹也。征凶，位不當也。无攸利，柔乘剛也。",
+        "notes": []
+      },
+      "image": {
+        "text": "澤上有雷，歸妹；君子以永終知敝。",
+        "notes": []
+      }
+    },
+    {
+      "number": 55,
+      "sourceTitle": "豐",
+      "lower": "離",
+      "upper": "震",
+      "revision": 10645290,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%B1%90&oldid=10645290",
+      "judgment": {
+        "text": "亨。王假之，勿憂，宜日中。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "遇其配主，雖旬无咎，往有尚。",
+            "notes": []
+          },
+          "image": {
+            "text": "雖旬无咎，過旬災也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "豐其蔀，日中見斗，往得疑疾，有孚發若，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "有孚發若，信以發志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "豐其沛，日中見沬，折其右肱，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "豐其沛，不可大事也。折其右肱，終不可用也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "豐其蔀，日中見斗，遇其夷主，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "豐其蔀，位不當也。日中見斗，幽不明也。遇其夷主，吉；行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "來章，有慶譽，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "六五之吉，有慶也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "豐其屋，蔀其家，窺其戶，闃其无人，三歲不觌，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "豐其屋，天際翔也。窺其戶，闃其无人，自藏也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "豐，大也。明以動，故豐。王假之，尚大也。勿憂宜日中，宜照天下也。日中則昃，月盈則食，天地盈虛，與時消息，而況于人乎？況于鬼神乎？",
+        "notes": []
+      },
+      "image": {
+        "text": "雷電皆至，豐；君子以折獄致刑。",
+        "notes": []
+      }
+    },
+    {
+      "number": 56,
+      "sourceTitle": "旅",
+      "lower": "艮",
+      "upper": "離",
+      "revision": 10647234,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%97%85&oldid=10647234",
+      "judgment": {
+        "text": "小亨，旅貞吉。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "旅瑣瑣，斯其所取災。",
+            "notes": []
+          },
+          "image": {
+            "text": "旅瑣瑣，志窮災也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "旅即次，懷其資，得僮僕貞。",
+            "notes": [
+              "一作「童」"
+            ]
+          },
+          "image": {
+            "text": "得童僕貞，終无尤也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "旅焚其次，喪其僮僕，貞厲。",
+            "notes": [
+              "一作「童」"
+            ]
+          },
+          "image": {
+            "text": "旅焚其次，亦以傷矣。以旅與下，其義喪也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "旅于處，得其資斧，我心不快。",
+            "notes": []
+          },
+          "image": {
+            "text": "旅于處，未得位也。得其資斧，心未快也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "射雉一矢亡，終以譽命。",
+            "notes": []
+          },
+          "image": {
+            "text": "終以譽命，上逮也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "鳥焚其巢，旅人先笑後號咷。喪牛于易，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "以旅在上，其義焚也。喪牛于易，終莫之聞也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "旅，小亨，柔得中乎外，而順乎剛，止而麗乎明，是以小亨，旅貞吉也。旅之時義大矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "山上有火，旅；君子以明慎用刑，而不留獄。",
+        "notes": []
+      }
+    },
+    {
+      "number": 57,
+      "sourceTitle": "巽",
+      "lower": "巽",
+      "upper": "巽",
+      "revision": 10644966,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B7%BD&oldid=10644966",
+      "judgment": {
+        "text": "小亨。利有攸往。利見大人。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "進退，利武人之貞。",
+            "notes": []
+          },
+          "image": {
+            "text": "進退，志疑也。利武人之貞，志治也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "巽在牀下，用史巫紛若，吉无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "紛若之吉，得中也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "頻巽，吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "頻巽之吝，志窮也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "悔亡，田獲三品。",
+            "notes": []
+          },
+          "image": {
+            "text": "田獲三品，有功也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "貞吉悔亡，无不利。无初有終，先庚三日，後庚三日，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "九五之吉，位正中也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "巽在牀下，喪其資斧，貞凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "巽在牀下，上窮也。喪其資斧，正乎凶也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "重巽以申命，剛巽乎中正而志行。柔皆順乎剛，是以小亨，利有攸往，利見大人。",
+        "notes": []
+      },
+      "image": {
+        "text": "隨風，巽；君子以申命行事。",
+        "notes": []
+      }
+    },
+    {
+      "number": 58,
+      "sourceTitle": "兌",
+      "lower": "兌",
+      "upper": "兌",
+      "revision": 2404993,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%85%8C&oldid=2404993",
+      "judgment": {
+        "text": "亨。利貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "和兌，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "和兌之吉，行未疑也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "孚兌，吉，悔亡。",
+            "notes": []
+          },
+          "image": {
+            "text": "孚兌之吉，信志也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "來兌，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "來兌之凶，位不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "商兌，未寧，介疾有喜。",
+            "notes": []
+          },
+          "image": {
+            "text": "九四之喜，有慶也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "孚于剝，有厲。",
+            "notes": []
+          },
+          "image": {
+            "text": "孚于剝，位正當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "引兌。",
+            "notes": []
+          },
+          "image": {
+            "text": "上六引兌，未光也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "兌，說也。剛中而柔外，說以利貞，是以順乎天，而應乎人。說以先民，民忘其勞；說以犯難，民忘其死；說之大，民勸矣哉！",
+        "notes": []
+      },
+      "image": {
+        "text": "麗澤，兌；君子以朋友講習。",
+        "notes": []
+      }
+    },
+    {
+      "number": 59,
+      "sourceTitle": "渙",
+      "lower": "坎",
+      "upper": "巽",
+      "revision": 10647580,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%B8%99&oldid=10647580",
+      "judgment": {
+        "text": "亨，王假有廟，利涉大川，利貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "用拯馬壯，吉，悔亡。",
+            "notes": []
+          },
+          "image": {
+            "text": "初六之吉，順也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "渙奔其机，悔亡。",
+            "notes": []
+          },
+          "image": {
+            "text": "渙奔其机，得愿也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "渙其躬，无悔。",
+            "notes": []
+          },
+          "image": {
+            "text": "渙其躬，志在外也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "渙其群，元吉。渙有丘，匪夷所思。",
+            "notes": []
+          },
+          "image": {
+            "text": "渙其群，元吉；光大也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "渙汗其大號，渙王居，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "王居无咎，正位也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "渙其血，去逖出，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "渙其血，遠害也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "渙，亨。剛來而不窮，柔得位乎外而上同。王假有廟，王乃在中也。利涉大川，乘木有功也。",
+        "notes": []
+      },
+      "image": {
+        "text": "風行水上，渙；先王以享于帝立廟。",
+        "notes": []
+      }
+    },
+    {
+      "number": 60,
+      "sourceTitle": "節",
+      "lower": "兌",
+      "upper": "坎",
+      "revision": 2405027,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E7%AF%80&oldid=2405027",
+      "judgment": {
+        "text": "亨。苦節不可貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "不出戶庭，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "不出戶庭，知通塞也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "不出門庭，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "不出門庭，失時極也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "不節若，則嗟若，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "不節之嗟，又誰咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "安節，亨。",
+            "notes": []
+          },
+          "image": {
+            "text": "安節之亨，承上道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "甘節，吉；往有尚。",
+            "notes": []
+          },
+          "image": {
+            "text": "甘節之吉，居位中也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "苦節，貞凶，悔亡。",
+            "notes": []
+          },
+          "image": {
+            "text": "苦節貞凶，其道窮也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "節，亨，剛柔分，而剛得中。苦節不可貞，其道窮也。說以行險，當位以節，中正以通。天地節而四時成，節以制度，不傷財，不害民。",
+        "notes": []
+      },
+      "image": {
+        "text": "澤上有水，節；君子以制數度，議德行。",
+        "notes": []
+      }
+    },
+    {
+      "number": 61,
+      "sourceTitle": "中孚",
+      "lower": "兌",
+      "upper": "巽",
+      "revision": 10647425,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E4%B8%AD%E5%AD%9A&oldid=10647425",
+      "judgment": {
+        "text": "豚魚吉，利涉大川，利貞。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "虞吉，有它不燕。",
+            "notes": [
+              "一作「他」"
+            ]
+          },
+          "image": {
+            "text": "初九虞吉，志未變也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "鳴鶴在陰，其子和之，我有好爵，吾與爾靡之。",
+            "notes": []
+          },
+          "image": {
+            "text": "其子和之，中心愿也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "得敵，或鼓或罷，或泣或歌。",
+            "notes": []
+          },
+          "image": {
+            "text": "可鼓或罷，位不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "月既望，馬匹亡，无咎。",
+            "notes": [
+              "一作「几、幾」"
+            ]
+          },
+          "image": {
+            "text": "馬匹亡，絕類上也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "有孚攣如，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "有孚攣如，位正當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "翰音登于天，貞凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "翰音登于天，何可長也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "中孚，柔在內而剛得中。說而巽，孚，乃化邦也。豚魚吉，信及豚魚也。利涉大川，乘木舟虛也。中孚以利貞，乃應乎天也。",
+        "notes": []
+      },
+      "image": {
+        "text": "澤上有風，中孚；君子以議獄緩死。",
+        "notes": []
+      }
+    },
+    {
+      "number": 62,
+      "sourceTitle": "小過",
+      "lower": "艮",
+      "upper": "震",
+      "revision": 10643238,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B0%8F%E9%81%8E&oldid=10643238",
+      "judgment": {
+        "text": "亨。利貞。可小事，不可大事。飛鳥遺之音，不宜上宜下，大吉。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "飛鳥以凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "飛鳥以凶，不可如何也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "過其祖，遇其妣；不及其君，遇其臣；无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "不及其君，臣不可過也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "弗過防之，從或戕之，凶。",
+            "notes": []
+          },
+          "image": {
+            "text": "從或戕之，凶如何也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "无咎，弗過遇之。往厲必戒，勿用永貞。",
+            "notes": []
+          },
+          "image": {
+            "text": "弗過遇之，位不當也。往厲必戒，終不可長也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "密雲不雨，自我西郊，公弋取彼在穴。",
+            "notes": []
+          },
+          "image": {
+            "text": "密云不雨，已上也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "弗遇過之，飛鳥離之，凶，是謂災眚。",
+            "notes": []
+          },
+          "image": {
+            "text": "弗遇過之，已亢也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "小過，小者過而亨也。過以利貞，與時行也。柔得中，是以小事吉也。剛失位而不中，是以不可大事也。有飛鳥之象焉，有飛鳥遺之音，不宜上宜下，大吉；上逆而下順也。",
+        "notes": []
+      },
+      "image": {
+        "text": "山上有雷，小過；君子以行過乎恭，喪過乎哀，用過乎儉。",
+        "notes": []
+      }
+    },
+    {
+      "number": 63,
+      "sourceTitle": "既濟",
+      "lower": "離",
+      "upper": "坎",
+      "revision": 2572417,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%97%A2%E6%BF%9F&oldid=2572417",
+      "judgment": {
+        "text": "亨小。利貞。初吉終亂。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初九",
+          "passage": {
+            "text": "曳其輪，濡其尾，无咎。",
+            "notes": []
+          },
+          "image": {
+            "text": "曳其輪，義无咎也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "六二",
+          "passage": {
+            "text": "婦喪其茀，勿逐，七日得。",
+            "notes": []
+          },
+          "image": {
+            "text": "七日得，以中道也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "九三",
+          "passage": {
+            "text": "高宗伐鬼方，三年克之，小人勿用。",
+            "notes": []
+          },
+          "image": {
+            "text": "三年克之，憊也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "六四",
+          "passage": {
+            "text": "繻有衣袽，終日戒。",
+            "notes": []
+          },
+          "image": {
+            "text": "終日戒，有所疑也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "九五",
+          "passage": {
+            "text": "東鄰殺牛，不如西鄰之禴祭，實受其福。",
+            "notes": []
+          },
+          "image": {
+            "text": "東鄰殺牛，不如西鄰之時也；實受其福，吉大來也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上六",
+          "passage": {
+            "text": "濡其首，厲。",
+            "notes": []
+          },
+          "image": {
+            "text": "濡其首厲，何可久也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "既濟，亨，小者亨也。利貞，剛柔正而位當也。初吉，柔得中也。終止則亂，其道窮也。",
+        "notes": []
+      },
+      "image": {
+        "text": "水在火上，既濟；君子以思患而豫防之。",
+        "notes": []
+      }
+    },
+    {
+      "number": 64,
+      "sourceTitle": "未濟",
+      "lower": "坎",
+      "upper": "離",
+      "revision": 10647450,
+      "sourceURL": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%9C%AA%E6%BF%9F&oldid=10647450",
+      "judgment": {
+        "text": "亨。小狐汔濟，濡其尾，无攸利。",
+        "notes": []
+      },
+      "lines": [
+        {
+          "position": 1,
+          "label": "初六",
+          "passage": {
+            "text": "濡其尾，吝。",
+            "notes": []
+          },
+          "image": {
+            "text": "濡其尾，亦不知極也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 2,
+          "label": "九二",
+          "passage": {
+            "text": "曳其輪，貞吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "九二貞吉，中以行正也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 3,
+          "label": "六三",
+          "passage": {
+            "text": "未濟，征凶，利涉大川。",
+            "notes": []
+          },
+          "image": {
+            "text": "未濟征凶，位不當也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 4,
+          "label": "九四",
+          "passage": {
+            "text": "貞吉，悔亡，震用伐鬼方，三年有賞于大國。",
+            "notes": [
+              "一作「邦」"
+            ]
+          },
+          "image": {
+            "text": "貞吉悔亡，志行也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 5,
+          "label": "六五",
+          "passage": {
+            "text": "貞吉，无悔，君子之光，有孚，吉。",
+            "notes": []
+          },
+          "image": {
+            "text": "君子之光，其暉吉也。",
+            "notes": []
+          }
+        },
+        {
+          "position": 6,
+          "label": "上九",
+          "passage": {
+            "text": "有孚于飲酒，无咎，濡其首，有孚失是。",
+            "notes": []
+          },
+          "image": {
+            "text": "飲酒濡首，亦不知節也。",
+            "notes": []
+          }
+        }
+      ],
+      "special": null,
+      "tuan": {
+        "text": "未濟，亨；柔得中也。小狐汔濟，未出中也。濡其尾，无攸利；不續終也。雖不當位，剛柔應也。",
+        "notes": []
+      },
+      "image": {
+        "text": "火在水上，未濟；君子以慎辨物居方。",
+        "notes": []
+      }
+    }
+  ]
+}
